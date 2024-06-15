@@ -14,3 +14,8 @@ Ensure you have the following Python libraries installed:
 
 Plotly has instructions on making your chart pretty. 
 [Plotly](https://plotly.com/python/candlestick-charts/)
+
+### Example Output:
+This is from the Coke vs Pepsi code:
+
+![KO vs PEP](exampleChart.png)
